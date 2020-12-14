@@ -1,0 +1,32 @@
+
+body{
+  background-color: black;
+  }
+  .images{
+  display:inline-block;
+  padding:1.5vw;
+}
+.navbar{
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  margin:1rem 0 1rem 0;
+  background: silver;
+}
+.navbar-brand{
+  font-size: 40px;
+  padding-left: 20px;
+}
+.timer{
+  background-color:black;
+  padding:0 1vw 0 1vw;
+  border-radius: 50%;
+  color: silver;
+  margin:1rem;
+  font-family: 'Langar', cursive;
+  font-size: 3vw;
+}
+.btn{
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 3vw;
+}
